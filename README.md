@@ -43,9 +43,9 @@
 ### phpMyAdmin
 - URL: http://localhost:8080
 - Server: `db`
-- Username: `zamil`
-- Password: `zamil`
-- Database: `zamil`
+- Username: `test`
+- Password: `test`
+- Database: `laravel-docker`
 
 ### Adminer
 - URL: http://localhost:9090
